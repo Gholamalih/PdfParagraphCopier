@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfParagraphCopier", "PdfParagraphCopier.csproj", "{23311020-F3DB-4ADE-9E77-E969F113DA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23311020-F3DB-4ADE-9E77-E969F113DA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23311020-F3DB-4ADE-9E77-E969F113DA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23311020-F3DB-4ADE-9E77-E969F113DA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23311020-F3DB-4ADE-9E77-E969F113DA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC963B86-AD76-428B-9838-01BC0037D471}
+	EndGlobalSection
+EndGlobal
